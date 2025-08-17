@@ -134,6 +134,8 @@ K. Chintu
 🔗 GitHub
 
 
+
+
 ---
 
 ✅ This README is detailed enough for recruiters or other devs to **clone, run, and deploy** your app.  
